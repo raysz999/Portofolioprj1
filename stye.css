@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(4, 115, 251);
+}
+img {
+  width: 20vh;
+}
+h1 {
+  flex: auto;
+  align-content: center;
+  align-items: center;
+  font-weight: 700;
+  padding: auto;
+  color: black;
+}
+h2 {
+  flex: auto;
+  align-content: center;
+  align-items: center;
+  font-weight: 700;
+  padding: auto;
+}
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: cadetblue;
+  color: #000;
+}
